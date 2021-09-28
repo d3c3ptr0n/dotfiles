@@ -1,0 +1,8 @@
+[
+	{ "keys": ["ctrl+k"], "command": "toggle_side_bar" },
+	{ "keys": ["shift+enter"], "command": "build" },
+	{ "key": "num_selections", "operator": "not_equal", "operand": 1 },
+    { "key": "setting.command_mode", "operand": true },
+    { "keys": ["ctrl+shift+c"], "command": "cancel_build" },
+
+]

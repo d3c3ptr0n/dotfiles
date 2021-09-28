@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"name": "Personal Website",
+			"path": "Web Development Bootcamp\\Personal Website"
+		},
+		{
+			"name": "TinDog",
+			"path": "Web Development Bootcamp\\TinDog"
+		},
+		{
+			"name": "Dicee Challenge",
+			"path": "Web Development Bootcamp\\Dicee Challenge"
+		},
+		{
+			"name": "Drum Kit",
+			"path": "Web Development Bootcamp\\Drum Kit"
+		},
+		{
+			"name": "Simon Game",
+			"path": "Web Development Bootcamp\\Simon Game"
+		},
+		{
+			"name": "Keeper",
+			"path": "Web Development Bootcamp\\Keeper"
+		},
+		{
+			"name": "Stonks Bot",
+			"path": "Stonks Bot"
+		}
+	],
+	"settings": {
+	  // Specifies the color theme used in the workbench.
+		"workbench.colorTheme": "One Dark Pro",
+		"liveServer.settings.multiRootWorkspaceName": "Temp"
+
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "OOAD"
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.format.settings.url": "eclipse-formatter.xml",
+		"java.dependency.syncWithFolderExplorer": false,
+
+	}
+}

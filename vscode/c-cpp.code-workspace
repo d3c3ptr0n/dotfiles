@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "DSA"
+		}
+	],
+	"settings": 
+	{
+		// Specifies the color theme used in the workbench.
+		"workbench.colorTheme": "Monokai Classic"
+	}
+}
