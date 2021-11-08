@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "PS"
+		},
+		{
+			"path": "OSL Practicals"
+		}
+	],
+	"settings": 
+	{
+		// Specifies the color theme used in the workbench.
+		"workbench.colorTheme": "Monokai Pro (Filter Spectrum)"
+	}
+}
