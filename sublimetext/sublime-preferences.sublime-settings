@@ -6,4 +6,5 @@
 		"Vintage",
 	],
 	"font_size": 11,
+	"save_on_focus_lost": true
 }
